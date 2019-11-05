@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="post-header">
+  <h1>{{ page.title }}</h1>
+  <small>{{ page.date | date: "%-d %B %Y" }}</small>
+</div>
+
+<div class="post-body">
+  {{content}}
+</div>
+<div class="just-comments" data-apikey="c8710d94-2dff-44c6-903f-c6cc735e955d"></div>
+<!--
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+-->

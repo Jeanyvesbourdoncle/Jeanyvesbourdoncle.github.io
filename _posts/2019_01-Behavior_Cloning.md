@@ -1,9 +1,9 @@
 
 ---
 layout: post
-title: "Getting started"
-excerpt: "First post, just to practice."
-author: "Jose"
+title: "toto"
+excerpt: "essai"
+author: "Jean-Yves"
 date: 2019-02-17
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "toto"
-excerpt: "essai"
-author: "Jean-Yves"
-date: 2019-02-17
+title: "Behavioral Cloning"
+excerpt: "Regression with an CNN Model"
+author: "Jean-Yves Bourdoncle"
+date: 2019-02-01
 ---
 
 ## **Behavioral Cloning** (Regression with an CNN model)

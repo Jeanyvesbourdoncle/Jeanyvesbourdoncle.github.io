@@ -1,3 +1,12 @@
+
+---
+layout: post
+title: "Getting started"
+excerpt: "First post, just to practice."
+author: "Jose"
+date: 2019-02-17
+---
+
 ## **Behavioral Cloning** (Regression with an CNN model)
 
 #### Introduction

@@ -18,7 +18,7 @@ steering command (from our CNN). One Error measurement will be measured and we w
 reduce in maximum this error.
 
 ![alt-text-1](../assets/sdc-Behavior_Cloning/Overview.png "Overview")
-<img src="../assets/sdc-Behavior_Cloning/Overview.png" /> 
+<img src="../assets/sdc-Behavior_Cloning/Overview.png"> 
 ![CNN Model Pipeline](https://github.com/Jeanyvesbourdoncle/Jeanyvesbourdoncle.github.io/blob/master/assets/sdc-Behavior-Cloning/Overview.png)
 ---------------------------------------------------------------------------------------------
 

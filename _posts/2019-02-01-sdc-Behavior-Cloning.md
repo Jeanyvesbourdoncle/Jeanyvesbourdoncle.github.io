@@ -17,8 +17,7 @@ the cameras of our autonomous drive. The MSE will compare for every situation th
 steering command (from our CNN). One Error measurement will be measured and we will adapt the weight in the back propagation step to 
 reduce in maximum this error.
 
-![Behavioral Cloning Overview](https://github.com/Jeanyvesbourdoncle/Behavioral-Cloning-End-To-End-Learning/blob/master/Overview.png)
-
+![Behavioral Cloning Overview] (https://github.com/Jeanyvesbourdoncle/Jeanyvesbourdoncle.github.io/blob/master/assets/sdc-Behavior-Cloning/Overview.png)
 ---------------------------------------------------------------------------------------------
 
 #### 1) The goals / steps of this project are the following :
@@ -37,9 +36,9 @@ reduce in maximum this error.
 
 #### 2) Input/Output of the application :
 
-##### 2a) Imput of the application :
+##### 2a) Input of the application :
 
-The project includes the following files as imput of the application : 
+The project includes the following files as input of the application : 
 
 * model.py containing the script to create and train the model
 
@@ -131,7 +130,7 @@ Secondly,the model consists of a convolution neural network of 9 layers :
 
    - for every layer, a standard ReLu activation Unit will be used.
    
-![CNN Model Pipeline](https://github.com/Jeanyvesbourdoncle/Behavioral-Cloning-End-To-End-Learning/blob/master/pipeline.png)
+![CNN Model Pipeline](https://github.com/Jeanyvesbourdoncle/Jeanyvesbourdoncle.github.io/blob/master/assets/sdc-Behavior-Cloning/pipeline.png)
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -215,4 +214,4 @@ For the model architecture vizualization, please generate the code model.py, and
 
 - after 2 epochs : training set : 0,0025 and validation set : 0,0113
 
-- Same results after 5 epochs, the gap between the training set and the validation set is always small (np overfitting problem)
+- Same results after 5 epochs, the gap between the training set and the validation set is always small (no overfitting problem)

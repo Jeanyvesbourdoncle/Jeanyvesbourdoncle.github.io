@@ -18,7 +18,7 @@ steering command (from our CNN). One Error measurement will be measured and we w
 reduce in maximum this error.
 
 ![alt-text-1](../assets/sdc-Behavior_Cloning/Overview.png "Overview")
-<img src="../assets/sdc-Behavior_Cloning/Overview.png" width="100%" height="100%" /> 
+<img src="../assets/sdc-Behavior_Cloning/Overview.png" /> 
 ---------------------------------------------------------------------------------------------
 
 #### 1) The goals / steps of this project are the following :

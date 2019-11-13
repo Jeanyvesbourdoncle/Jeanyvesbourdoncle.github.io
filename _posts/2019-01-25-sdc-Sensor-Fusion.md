@@ -21,7 +21,7 @@ The Lidar uses carthesian coordinates and the radar ues polar coordinates. Conse
 
 You can find here the sensor fusion overview with the differents SW components of the sensor fusion algorithm :
 
-![Sensor Fusion Overview](https://github.com/Jeanyvesbourdoncle/Noisy-Lidar-Radar-Sensor-Fusion-with-an-EKF-/blob/master/Sensor_Fusion_Overview.png)
+![Sensor Fusion Overview](https://github.com/Jeanyvesbourdoncle/Jeanyvesbourdoncle.github.io/blob/master/assets/sdc-Sensor-Fusion/Sensor_Fusion_Overview.png)
 
 ---
 
@@ -127,4 +127,4 @@ You can see a screenshot of the results :
 - the car is the real object, which we want track	
 - in the right of the window : the RMSE data with the difference for the position  px,py and the velocity vx,vy between the ground truth and the sensor data.
 
-![Sensor Fusion Picture](https://github.com/Jeanyvesbourdoncle/Noisy-Lidar-Radar-Sensor-Fusion-with-an-EKF-/blob/master/Bicycle_Tracking_Sensor_Fusion.png)
+![Sensor Fusion Picture](https://github.com/Jeanyvesbourdoncle/Jeanyvesbourdoncle.github.io/blob/master/assets/sdc-Sensor-Fusion/Bicycle_Tracking_Sensor_Fusion.png)

@@ -17,7 +17,7 @@ the cameras of our autonomous drive. The MSE will compare for every situation th
 steering command (from our CNN). One Error measurement will be measured and we will adapt the weight in the back propagation step to 
 reduce in maximum this error.
 
-![alt-text-1](../assets/sdc-Behavior_Cloning/Overview.png "title-1")
+![alt-text-1](../assets/sdc-Behavior_Cloning/Overview.png "Overview")
 ---------------------------------------------------------------------------------------------
 
 #### 1) The goals / steps of this project are the following :

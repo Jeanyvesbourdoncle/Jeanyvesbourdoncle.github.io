@@ -20,7 +20,6 @@ One Error measurement will be measured and we will adapt the weight in the back 
 <p align="center">
 <img src="../../../assets/sdc-Behavior-Cloning/Overview.png" /> 
 </p> 
-
 ---------------------------------------------------------------------------------------------
 
 #### 1) The goals / steps of this project are the following :

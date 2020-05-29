@@ -136,7 +136,6 @@ Secondly,the model consists of a convolution neural network of 9 layers :
 <div class="post_img">
 <img src="../../../assets/sdc-Behavior-Cloning/pipeline.png" /> 
 </div>
-
 -----------------------------------------------------------------------------------------------------------
 
 

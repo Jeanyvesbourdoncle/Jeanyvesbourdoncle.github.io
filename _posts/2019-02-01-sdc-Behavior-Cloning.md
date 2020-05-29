@@ -133,9 +133,9 @@ Secondly,the model consists of a convolution neural network of 9 layers :
 
    - for every layer, a standard ReLu activation Unit will be used.
    
-<div class="post_img">
+
 <img src="../../../assets/sdc-Behavior-Cloning/pipeline.png" /> 
-</div>
+
 -----------------------------------------------------------------------------------------------------------
 
 

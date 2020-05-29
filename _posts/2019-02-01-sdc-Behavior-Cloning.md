@@ -19,6 +19,11 @@ reduce in maximum this error.
 
  
 ![CNN Model Pipeline](https://github.com/Jeanyvesbourdoncle/Jeanyvesbourdoncle.github.io/blob/master/assets/sdc-Behavior-Cloning/Overview.png)
+
+<div class="post_img">
+<img src="../../../assets/sdc-Behavior-Cloning/Overview.png" /> 
+</div>
+
 ---------------------------------------------------------------------------------------------
 
 #### 1) The goals / steps of this project are the following :

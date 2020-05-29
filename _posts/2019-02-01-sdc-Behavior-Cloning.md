@@ -17,9 +17,6 @@ the cameras of our autonomous drive. The MSE will compare for every situation th
 steering command (from our CNN). One Error measurement will be measured and we will adapt the weight in the back propagation step to 
 reduce in maximum this error.
 
- 
-![CNN Model Pipeline](https://github.com/Jeanyvesbourdoncle/Jeanyvesbourdoncle.github.io/blob/master/assets/sdc-Behavior-Cloning/Overview.png)
-
 <div class="post_img">
 <img src="../../../assets/sdc-Behavior-Cloning/Overview.png" /> 
 </div>
@@ -136,7 +133,9 @@ Secondly,the model consists of a convolution neural network of 9 layers :
 
    - for every layer, a standard ReLu activation Unit will be used.
    
-![CNN Model Pipeline](https://github.com/Jeanyvesbourdoncle/Jeanyvesbourdoncle.github.io/blob/master/assets/sdc-Behavior-Cloning/pipeline.png)
+<div class="post_img">
+<img src="../../../assets/sdc-Behavior-Cloning/pipeline.png" /> 
+</div>
 
 -----------------------------------------------------------------------------------------------------------
 

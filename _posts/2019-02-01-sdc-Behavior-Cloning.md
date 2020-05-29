@@ -1,24 +1,24 @@
 ---
 layout: post
-title: "Behavioral Cloning"
+title: "Behavioral Cloning" (Regression with an CNN model)
 excerpt: "Regression with an CNN Model"
 author: "Jean-Yves Bourdoncle"
-date: 2019-02-01
+date: 2019-01-20
 ---
 
-## **Behavioral Cloning** (Regression with an CNN model)
-
 #### Introduction
-The target is here to train the weights of our CNN to minimize the mean squared error between the steering command output by the 
-network and the command of either the human driver.
+The target is here to train the weights of our CNN to minimize the mean squared error between the steering command output by the network and the command of either the human driver.
 
-To make that, we collect firstly the data with a normal drive with a human driver. We will compare these recording data with the data of 
-the cameras of our autonomous drive. The MSE will compare for every situation the desired steering command with the network computed
-steering command (from our CNN). One Error measurement will be measured and we will adapt the weight in the back propagation step to 
-reduce in maximum this error.
+To reach this target, we collect firstly the data with a normal drive with a human driver. 
+
+We will compare these recording data with the data of the cameras of our autonomous drive. 
+
+The MSE will compare for every situation the desired steering command with the network computed steering command (from our CNN). 
+
+One Error measurement will be measured and we will adapt the weight in the back propagation step to reduce in maximum this error.
 
 <p align="center">
-<img src="../../../assets/sdc-Behavior-Cloning/Overview.png" width="80% style = "border:none;> 
+<img src="../../../assets/sdc-Behavior-Cloning/Overview.png" /> 
 </p> 
 
 ---------------------------------------------------------------------------------------------

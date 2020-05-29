@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Behavioral Cloning (Regression with an CNN model)"
+title: "Behavioral Cloning"
 excerpt: "Regression with an CNN Model"
 author: "Jean-Yves Bourdoncle"
 date: 2019-01-01

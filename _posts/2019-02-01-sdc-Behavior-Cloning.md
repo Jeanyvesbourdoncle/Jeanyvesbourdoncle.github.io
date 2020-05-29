@@ -18,10 +18,8 @@ steering command (from our CNN). One Error measurement will be measured and we w
 reduce in maximum this error.
 
 <p align="center">
-<img src="../../../assets/sdc-Behavior-Cloning/Overview.png" width="70% style = "border:none;" /> 
+<img src="./assets/sdc-Behavior-Cloning/Overview.png" width="50% style = "border:none;" /> 
 </p> 
-
-
 
 ---------------------------------------------------------------------------------------------
 
